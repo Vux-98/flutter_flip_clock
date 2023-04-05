@@ -16,6 +16,10 @@ Android and/or iOS.
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<p>
+	<img src="https://github.com/Vux-98/flutter_flip_clock/blob/main/flip_clock_demo.gifraw=true" width="250" height="443"  />
+</p>
+
 
 ## How to use
 

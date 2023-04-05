@@ -1,7 +1,7 @@
 name: flutter_flip_clock
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Vux-98/flutter_flip_clock
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

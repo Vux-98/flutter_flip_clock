@@ -4,7 +4,6 @@ A package for flip panel items like image, countdown or clock with built-in anim
 Since the developer of [flip_panel](https://pub.dev/packages/flip_panel) didn't respond.
 So we updated the package, added some improvements and fixed some issues.
 
-## Getting Started
 
 ## Getting Started
 
